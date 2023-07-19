@@ -1,6 +1,6 @@
 <?php
 
-//Class_Exists() Bir fonksiyonun tanımlı olup olmadığını kontrol eder .
+//Class_Exists() Bir Sınıf fonksiyonun tanımlı olup olmadığını kontrol eder .
 
 class Sinif
 {
